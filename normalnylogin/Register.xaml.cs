@@ -15,18 +15,13 @@ using System.Windows.Shapes;
 namespace wpflogin
 {
     /// <summary>
-    /// Interaction logic for Loginscr.xaml
+    /// Interaction logic for Register.xaml
     /// </summary>
-    public partial class Loginscr : Window
+    public partial class Register : Window
     {
-        public Loginscr()
+        public Register()
         {
             InitializeComponent();
-        }
-
-        private void btnSubmit_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }
